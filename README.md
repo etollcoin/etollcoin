@@ -1,4 +1,4 @@
-### Hi there 👋
+eTollCoin is a revolutionary digital currency that allows you to pay your toll fees without the hassle of carrying cash or credit cards. With eTollCoin, you can make toll payments instantly and securely from anywhere in the world.
 
 <!--
 **etollcoin/etollcoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
